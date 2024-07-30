@@ -1,0 +1,10 @@
+.movies {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+  margin: 30px;
+}
